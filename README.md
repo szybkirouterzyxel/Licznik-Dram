@@ -37,3 +37,7 @@ masz 2 opcje, albo trudny fajny sposób lub łatwiejszy sposób
 4. Uruchom plik ![obraz](https://github.com/user-attachments/assets/b1a7b14b-dccc-4c46-9824-bb59d2aec611)
 
 5. Gotowe
+
+
+# Start
+utwórz plik txt w katalogu `Documents` o nazwie `dramy.txt` tam program zapisuje i odczytuje ile dram było
