@@ -1,4 +1,4 @@
-# Licznik-Dram  [WSTRZYMANY DEVELOPMENT!!]
+# Licznik-Dram
 Licznik który liczy dramy! 100% C#!
 
 jeżeli klikasz n na klawiaturze to musisz kliknąć dużą literą
@@ -39,5 +39,4 @@ masz 2 opcje, albo trudny fajny sposób lub łatwiejszy sposób
 5. Gotowe
 
 
-# Start
-utwórz plik txt w katalogu `Documents` o nazwie `dramy.txt` tam program zapisuje i odczytuje ile dram było
+
