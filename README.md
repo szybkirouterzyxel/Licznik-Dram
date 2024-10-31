@@ -12,9 +12,9 @@ masz 2 opcje, albo trudny fajny sposób lub łatwiejszy sposób
 # Trudniejszy (Aka Kompilacja) 
 1. Pobierz .NET SDK 
 
-2. pobierz ten ![obraz](https://github.com/user-attachments/assets/13a1c470-98c3-45bc-943d-78589deeed77) plik
+2. pobierz ten ![obraz](https://github.com/user-attachments/assets/6670428a-4534-48d4-a9e1-0cf234361d4a) plik
 
-3. utwórz folder gdzie chcesz i wsadz ten plik co powyżej
+3. utwórz folder gdzie chcesz i wypakuj ten plik do tego folderu
 
 4. Uruchom CMD i musisz nawigować do tego pliku czyli np `cd Desktop/[Nazwa Folderu]/LicznikDram`
 
