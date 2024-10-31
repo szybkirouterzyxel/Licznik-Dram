@@ -5,6 +5,8 @@ jeżeli klikasz n na klawiaturze to musisz kliknąć dużą literą
 dlatego że w kodzie jest napisane jak na razie "N", "Y" potem bede musiał dopisać żeby reagował na małe litery
 ![obraz](https://github.com/user-attachments/assets/a88b76bc-65af-4819-8ce7-eeb65c5f928a)
 
+Kliknij sobie na samej górze `Program.cs` aby poczytać sobie kod
+
 # Pobranie
 
 masz 2 opcje, albo trudny fajny sposób lub łatwiejszy sposób
@@ -24,3 +26,14 @@ masz 2 opcje, albo trudny fajny sposób lub łatwiejszy sposób
 
 7. Udało ci się skompilować
 
+# Latwiejszy 
+
+1. kliknij w `Releases` ![obraz](https://github.com/user-attachments/assets/5987ed62-b4a3-4365-aa88-585d81055eb8)
+
+2. Pobierz `LicznikDramBin.zip`
+
+3. Wypakuj plik
+
+4. Uruchom plik ![obraz](https://github.com/user-attachments/assets/b1a7b14b-dccc-4c46-9824-bb59d2aec611)
+
+5. Gotowe
