@@ -1,4 +1,4 @@
-# Licznik-Dram
+# Licznik-Dram  [WSTRZYMANY DEVELOPMENT!!]
 Licznik który liczy dramy! 100% C#!
 
 jeżeli klikasz n na klawiaturze to musisz kliknąć dużą literą
